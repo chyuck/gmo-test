@@ -12,7 +12,7 @@ namespace Algorithms.Solutions.Tests
         [TestCase(4, ExpectedResult = "3")]
         [TestCase(5, ExpectedResult = "5")]
         [TestCase(100, ExpectedResult = "354224848179261915075")]
-        public string Test_AddValueToTheEnd_When_LinkedList_Is_Empty(int index)
+        public string Test_GetValueByIndex(int index)
         {
             var result = FibonacciNumbers.GetValueByIndex(index);
 
