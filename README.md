@@ -1,6 +1,7 @@
 
 ## Middle Tier / Algorithms Questions
 
-| # | Name | Solution |
-| :---: | :---: | --- |
-| 5 | Doubly-Linked List | [DoublyLinkedList.cs](algorithms/Algorithms.Solutions/DoublyLinkedList/DoublyLinkedList.cs) |
+| # | Name | Solution | Tests |
+| --- | --- | --- | --- |
+| 5 | Doubly-Linked List | [DoublyLinkedList](algorithms/Algorithms.Solutions/DoublyLinkedList) | [DoublyLinkedListTests.cs](algorithms/Algorithms.Solutions.Tests/DoublyLinkedListTests.cs) |
+| 6 | Fibonacci Numbers | [FibonacciNumbers.cs](algorithms/Algorithms.Solutions/FibonacciNumbers.cs) | [FibonacciNumbersTests.cs](algorithms/Algorithms.Solutions.Tests/FibonacciNumbersTests.cs) |
