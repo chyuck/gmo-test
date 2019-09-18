@@ -14,7 +14,7 @@ namespace Algorithms.Solutions
                 throw new ArgumentException("Input array is empty");
 
             var sum = integers.Sum();
-            var average = (double) sum / integers.Length;
+            var average = (decimal) sum / integers.Length;
 
             var closestInteger = integers[0];
             var minDifference = Math.Abs(average - closestInteger);
