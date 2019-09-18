@@ -1,0 +1,12 @@
+.git/
+.idea/
+.vs/
+.vscode/
+
+bin/
+obj/
+/packages
+/TestResults
+*.user
+*.vspscc
+*.DotSettings
