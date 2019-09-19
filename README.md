@@ -12,5 +12,5 @@
 ## Database Questions
 | # | Name | Solution |
 | --- | --- | --- |
-| 9 | Create Customer Order Database | [CreateCustomerOrderDatabase](database/CreateCustomerOrderDatabase) |
+| 9 | Create Customer Order Database | [CreateCustomerOrderDB](database/CreateCustomerOrderDB) |
 
