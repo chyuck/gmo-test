@@ -1,4 +1,10 @@
 
+## Database Questions
+| # | Name | Solution |
+| --- | --- | --- |
+| 4 | Master-Detail Screen | [MasterDetailScreen](ui/ui) |
+
+
 ## Middle Tier / Algorithms Questions
 
 | # | Name | Solution | Tests |
